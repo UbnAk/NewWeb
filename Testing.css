@@ -1,0 +1,32 @@
+.conteiner {
+    background-image: url("https://img.freepik.com/premium-photo/a-fantasy-landscape-with-mountain-while-sunset-in-painting-style-background_275897-393.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    text-align: center;
+    font-size: 45px;
+}
+
+.hel {
+    display: block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+    font-size: 30px;
+}
+
+.block {
+    display: flex;
+    justify-content: center;
+}
+
+.resul {
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: aliceblue;
+}
